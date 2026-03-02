@@ -1,0 +1,7 @@
+models/
+*.pt
+*.mp4
+*.avi
+*.mov
+*.mkv
+datasets/
